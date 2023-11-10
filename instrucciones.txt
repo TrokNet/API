@@ -1,0 +1,1 @@
+Crear la estructura de la base de datos con las variables que obtenemos del json del biotime
